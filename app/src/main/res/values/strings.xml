@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework01_ColorsRGB_LaylaKleinow</string>
+
+    <string name="red_label">Red: 0</string>
+    <string name="green_label">Green: 0</string>
+    <string name="blue_label">Blue: 0</string>
+
+    <string name="hex_default">#000000</string>
+
+    <string name="save_color">Save Color</string>
+</resources>
